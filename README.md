@@ -1,13 +1,13 @@
 ## 🏡 Boston House Price Prediction
 
-📌 Overview
+### 📌 Overview
 
 Housing prices are influenced by multiple factors such as location, crime rate, tax rates, and property characteristics. Accurately predicting house prices benefits homebuyers, investors, and developers by providing insights into market valuation and budget planning.
 
 This project uses machine learning to build a predictive model for Boston housing prices, identifying key factors that impact property values.
 
-✅ This project was completed as part of the MIT Applied Data Science Program and received a full score.\
-✅ Originally a Kaggle challenge, this project applies real-world machine learning techniques to predictive modeling.
+✅ I completed this project as part of the MIT Applied Data Science Program and received a full score.\
+✅ It was originally a Kaggle challenge that applies real-world machine learning techniques to predictive modeling.
 
 ### 🎯 Objective
 
